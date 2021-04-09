@@ -7,9 +7,9 @@ public class Main {
 
          //use comments to block out the sections below to see the runs.
 
-         //new StringConstructors();
-         //new StringMiscellaneous();
-
-        new stringCompare();
+        //new StringConstructors();
+        //new StringMiscellaneous();
+        //new stringCompare();
+        new Validate();
     }
 }
